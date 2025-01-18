@@ -34,4 +34,4 @@ Follow these steps to set up the project:
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/sahankrt20/deeplearning2088.git
-   cd deep-learning-algorithm
+   cd deeplearningalgorithm
